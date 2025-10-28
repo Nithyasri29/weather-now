@@ -1,0 +1,74 @@
+.app-container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 25px;
+  background: #f6f7fb;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 24px;
+}
+
+input[type="text"] {
+  padding: 8px;
+  font-size: 1rem;
+  border-radius: 4px;
+  border: 1px solid #bbb;
+  width: 60%;
+  margin-right: 8px;
+}
+
+button {
+  padding: 8px 18px;
+  background: #1a73e8;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  background: #1556b6;
+}
+
+.error {
+  margin-top: 20px;
+  color: #e85353;
+  font-weight: bold;
+}
+
+.weather-info {
+  margin-top: 20px;
+  padding: 10px;
+  background: #e7f4ff;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.error {
+  margin-top: 20px;
+  color: #e85353;
+  font-weight: bold;
+}
+
+@media (max-width: 500px) {
+  .app-container {
+    padding: 10px;
+    width: 95vw;
+    min-width: unset;
+  }
+  input[type="text"] {
+    width: 45%;
+    font-size: 14px;
+  }
+  button {
+    font-size: 14px;
+    padding: 8px 8px;
+  }
+}
