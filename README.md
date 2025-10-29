@@ -99,13 +99,6 @@ Weather Now enables users to find real-time weather conditions by searching any 
 - Error handling for invalid or not-found cities
 
 ***
-
-## 📸 Screenshot
-
-![Weather Now Screenshot](https://github.com/Nithyasri29/weather-now/blob/main/Weather%20now%20screen%20shot.jpg)
-
-***
-
 ## 🚀 Deployment & Status
 
 - *Fully built:* Weather Now is a modern web app, complete and ready for end users.
@@ -114,6 +107,14 @@ Weather Now enables users to find real-time weather conditions by searching any 
 - *Open source on GitHub:* View and contribute to the complete codebase at [GitHub Repository](https://github.com/Nithyasri29/weather-now.git)
 
 ***
+
+
+## 📸 Screenshot
+
+![Weather Now Screenshot](https://github.com/Nithyasri29/weather-now/blob/main/Weather%20now%20screen%20shot.jpg)
+
+***
+
 
 
 
