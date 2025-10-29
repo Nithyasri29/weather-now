@@ -1,4 +1,4 @@
- 🌦 WEATHER NOW
+ ## 🌦 WEATHER NOW
 
 
 Weather Now is a modern web app for instant weather checks, built with React, custom CSS, and powered by the Open Metro API.
@@ -48,7 +48,7 @@ Weather Now enables users to find real-time weather conditions by searching any 
 ## 🌐 API Reference
 
 - *Open Metro API*  
-  Endpoint example:
+  Endpoint pattern:
   
   https://api.openmetro.org/weather?q={city}
   
