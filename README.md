@@ -100,10 +100,8 @@ Weather Now enables users to find real-time weather conditions by searching any 
 
 ***
 
-## 🙌 Acknowledgements
+## 📸 Screenshot
 
-- Weather data thanks to the Open Metro API team.
-- UX inspired by modern weather apps and challenge instructions.
-
+![Weather Now Screenshot](Weather now screen shot.jpg)
 
 
