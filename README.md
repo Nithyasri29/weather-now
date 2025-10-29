@@ -39,7 +39,7 @@ Weather Now enables users to find real-time weather conditions by searching any 
 | Area        | Tool/Service      |
 | ----------- | ----------------- |
 | Framework   | React             |
-| Styling     | CSS (No framework)|
+| Styling     | CSS |
 | Deployment  | Vercel            |
 | API         | Open Metro API    |
 
@@ -102,6 +102,18 @@ Weather Now enables users to find real-time weather conditions by searching any 
 
 ## 📸 Screenshot
 
-![Weather Now Screenshot](Weather now screen shot.jpg)
+![Weather Now Screenshot](https://github.com/Nithyasri29/weather-now/blob/main/Weather%20now%20screen%20shot.jpg)
+
+***
+
+## 🚀 Deployment & Status
+
+- *Fully built:* Weather Now is a modern web app, complete and ready for end users.
+- *Styled with Tailwind CSS:* The user interface uses Tailwind CSS for a clean, consistent, and responsive look.
+- *Deployed on Vercel:* Try the app live at [Weather Now – Live App](https://weather-now-navy-xi.vercel.app)
+- *Open source on GitHub:* View and contribute to the complete codebase at [GitHub Repository](https://github.com/Nithyasri29/weather-now.git)
+
+***
+
 
 
